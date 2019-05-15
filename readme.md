@@ -1,1 +1,1 @@
-Personal bibtex library
+Personal BibTeX library
