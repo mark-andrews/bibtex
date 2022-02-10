@@ -1,1 +1,1 @@
-Personal BibTeX library
+Personal BibTeX library of Mark Andrews
